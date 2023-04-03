@@ -1,3 +1,12 @@
+# About Me
+
+I'm am freelance developer who studies computer science and machine code. Feel free to hit me up for any enquires,
+
+# Contacts
+
+- Discord: ! muz#2666
+- Email: tinnysiki@gmail.com
+
 # Discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/838487899158347848)](https://discord.com/users/838487899158347848)
