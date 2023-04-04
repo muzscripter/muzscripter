@@ -1,27 +1,26 @@
 # About Me
 
 I'm am freelance developer who studies computer science and machine code. Feel free to hit me up for any enquires,
+I started developing for fun at 11 on roblox and continue on-foward from there.
 
-# Contacts
+## Contacts
 
 - Discord: ! muz#2666
 - Email: tinnysiki@gmail.com
 
-# Discord
+## Discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/838487899158347848)](https://discord.com/users/838487899158347848)
 
-# Languages
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/-C%2B%2B-lightgrey)
+## Programming Languages
+My first language:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-Overall /
-
-Some - Python
+- Python
 - Lua
 - C++
 - PHP
-- JS
+- SQL
 
 # Operating System
 
