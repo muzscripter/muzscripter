@@ -21,6 +21,7 @@ My first language:
 - C++
 - PHP
 - SQL
+- RS ( Rust )
 
 # Operating System
 
