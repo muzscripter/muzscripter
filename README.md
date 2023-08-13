@@ -1,12 +1,10 @@
 # About Me
 
-I'm am freelance developer who studies computer science and machine code. Feel free to hit me up for any enquires,
-I started developing for fun at 11 on roblox and continue on-foward from there.
+I'm am freelance developer who studies computer science and machine code. Feel free to hit me up for any enquires.
 
 ## Contacts
 
-- Discord: ! muz#2666
-- Email: tinnysiki@gmail.com
+- Discord: graverealm
 
 ## Discord
 
