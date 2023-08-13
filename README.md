@@ -8,7 +8,7 @@ I'm am freelance developer who studies computer science and machine code. Feel f
 
 ## Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/838487899158347848)](https://discord.com/users/838487899158347848)
+[![Discord Presence](https://lanyard.cnrad.dev/api/838487899158347848)](https://discord.com/users/1102538523426430976)
 
 ## Programming Languages
 My first language:
@@ -18,8 +18,7 @@ My first language:
 - Lua
 - C++
 - PHP
-- SQL
-- RS ( Rust )
+- RUST
 
 # Operating System
 
